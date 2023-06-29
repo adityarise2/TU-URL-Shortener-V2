@@ -48,7 +48,7 @@ ABOUT_TEXT = """
     
 `📝 Language:` [Python 3](https://www.python.org/)
 `🧰 Framework:` [Pyrogram](https://github.com/pyrogram/pyrogram)
-`👨‍💻 Developer:` [BLASTER](t.me/harrypotter00009)
+`👨‍💻 Developer:` [ADITYA](t.me/harrypotter00009)
 `📢 Support:` [Talk Bot](https://t.me/harrypotter00009)
 `🌐 Source Code:` [Aditya Brain]
 """
