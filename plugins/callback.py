@@ -237,7 +237,7 @@ async def on_callback_query(bot: Client, query: CallbackQuery):
         )
 
     elif query.data == "restart":
-        await query.message.edit("**Restart Avuthundhi Ra Babu.....**")
+        await query.message.edit("**Restart Avuthundhi mawa.....**")
         await asyncio.sleep(5)
         os.execl(sys.executable, sys.executable, *sys.argv)
     await query.answer()
