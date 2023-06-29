@@ -57,7 +57,7 @@ class Bot(Client):
 
         await set_commands(self)
 
-        await broadcast_admins(self, "** Bot start Ayyindhi Ra Babu **")
+        await broadcast_admins(self, "** Bot start Ayyindi mawa **")
         logging.info("Bot started")
 
         if WEB_SERVER:
